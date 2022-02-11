@@ -1,0 +1,10 @@
+apis-list = [ "compute.googleapis.com" ]
+app-name = "demo"
+billing-account = ""
+billing-code = ""
+env = "dev"
+primary-contact = "saideepreddy.k2@gmail.com"
+project-name = "demo-project"
+service-account = ""
+suffix = "dev"
+folder-id = ""
